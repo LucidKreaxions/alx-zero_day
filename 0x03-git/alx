@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-This is the code on the current branch.
+Changes made in your branch
 =======
-This is the code on the branch being merged.
->>>>>>> update_script
+Changes made in the other branch
+>>>>>>> other-branch
